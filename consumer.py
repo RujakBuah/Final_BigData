@@ -8,8 +8,8 @@ KAFKA_BROKER = "localhost:9092"
 
 # MongoDB settings 
 MONGO_URL = "mongodb://localhost:27017"
-MONGO_DB = "public_transportation"
-MONGO_COLLECTION = "transport"
+MONGO_DB = "smoker_data"
+MONGO_COLLECTION = "smokers"
 
 # Connect to MongoDB
 client = MongoClient(MONGO_URL)
