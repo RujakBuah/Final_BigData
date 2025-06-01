@@ -1,0 +1,11 @@
+age_group,gender,location,smoking_status
+15-24,male,Jakarta,smoker
+25-34,female,Bandung,non-smoker
+15-24,female,Surabaya,smoker
+35-44,male,Medan,smoker
+15-24,male,Yogyakarta,non-smoker
+25-34,male,Jakarta,smoker
+45-54,female,Bali,non-smoker
+15-24,male,Bandung,smoker
+35-44,female,Surabaya,non-smoker
+15-24,female,Jakarta,smoker
